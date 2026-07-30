@@ -31,7 +31,7 @@ A real-time computer vision based Driver Drowsiness Detection System developed u
 ### Eye Detection
 
 <p align="center">
-<img src="Images/1.png" width="700">
+<img src="1.png" width="700">
 </p>
 
 The system successfully detects both eyes in real time using facial landmark detection.
@@ -41,7 +41,7 @@ The system successfully detects both eyes in real time using facial landmark det
 ### Drowsiness Alert
 
 <p align="center">
-<img src="Images/2.png" width="700">
+<img src="2.png" width="700">
 </p>
 
 When the driver's eyes remain closed for multiple consecutive frames, the system classifies the driver as drowsy and immediately triggers an alarm.
@@ -51,7 +51,7 @@ When the driver's eyes remain closed for multiple consecutive frames, the system
 ## 📊 Testing & Results
 
 <p align="center">
-<img src="Images/3.png" width="900">
+<img src="3.png" width="900">
 </p>
 
 ### Test Summary
